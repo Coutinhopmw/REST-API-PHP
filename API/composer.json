@@ -1,0 +1,17 @@
+{
+    "name": "cassio/api",
+    "autoload": {
+        "psr-4": {
+            "connection\\": "src/connection",
+            "controller\\": "src/controller",
+            "model\\": "src/model"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cássio",
+            "email": "cassio.coutinho@mail.uft.edu.br"
+        }
+    ],
+    "require": {}
+}

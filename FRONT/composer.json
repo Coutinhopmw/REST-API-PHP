@@ -1,0 +1,17 @@
+{
+    "name": "Cassio/front",
+    "autoload": {
+        "psr-4": {
+            "view\\": "src/view",
+            "controller\\": "src/controller",
+            "api\\": "src/api"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cassio",
+            "email": "cassio.coutinho@mail.uft.edu.br"
+        }
+    ],
+    "require": {}
+}
